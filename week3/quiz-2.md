@@ -21,3 +21,25 @@ parameters θ=[74.81 45.05], and the other time you got θ=[1.37 0.51]. However,
 * θ=[74.81 45.05]
 
 ---
+
+## Question 3
+Which of the following statements about regularization are true? Check all that apply.
+
+### Answer
+* **Consider a classification problem. Adding regularization may cause your classifier to incorrectly classify some training examples (which it had correctly classified when not using regularization, i.e. when λ=0).**
+* Using too large a value of λ can cause your hypothesis to overfit the data; this can be avoided by reducing λ.
+* Using a very large value of λ cannot hurt the performance of your hypothesis; the only reason we do not set λ to be too large is to avoid numerical problems.
+* Because logistic regression outputs values 0≤hθ(x)≤1, its range of output values can only be "shrunk" slightly by regularization anyway, so regularization is generally not helpful for it.
+
+---
+
+## Question 4
+In which one of the following figures do you think the hypothesis has overfit the training set?
+
+### Answer
+
+---
+
+## Question 5
+
+### Answer
